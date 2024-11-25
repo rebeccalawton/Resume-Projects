@@ -12,7 +12,7 @@
 //and the green (-15 points) or blue (automatic loss) sprites. Winning and losing
 //messages are displayed on the screen when either occurs.
 
-//YouTube link: https://youtu.be/qexQJd-zLaM
+//YouTube link for demo: https://youtu.be/qexQJd-zLaM
 
 
 
