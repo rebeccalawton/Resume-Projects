@@ -1,4 +1,4 @@
-// Name: Rebecca Lawton, NETID: gke9600
+// Name: Rebecca Lawton
 
 // Description of Game: Mario must try to bump into the brown
 //and pink squares while avoiding the green and blue ones.
